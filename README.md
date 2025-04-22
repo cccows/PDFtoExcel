@@ -34,7 +34,7 @@ Make sure you have Node.js and Python installed.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/limedosa/pdfToExcel.git
+   git clone https://github.com/cccows/pdfToExcel.git
    cd pdfToExcel
    ```
 
@@ -58,7 +58,7 @@ Make sure you have Node.js and Python installed.
 ---
 
 ## Contributing
-We welcome contributions! Please follow these steps:
+I welcome contributions! Please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature:
